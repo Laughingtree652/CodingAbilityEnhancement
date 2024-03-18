@@ -10,3 +10,5 @@ Enhance coding ability
 4. css: https://zh.learnlayout.com/no-layout
 
 5. JavaScript权威指南：https://js.okten.cn/posts/
+
+6. 图解HTTP: https://awesome-programming-books.github.io/http/%E5%9B%BE%E8%A7%A3HTTP.pdf
