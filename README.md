@@ -8,3 +8,5 @@ Enhance coding ability
 3. vue视频教程: https://www.bilibili.com/video/BV1Zy4y1K7SH/?p=79&spm_id_from=pageDriver&vd_source=91a0c18092ef837125569e613858e307  
 
 4. css: https://zh.learnlayout.com/no-layout
+
+5. JavaScript权威指南：https://js.okten.cn/posts/
