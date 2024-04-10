@@ -12,3 +12,5 @@ Enhance coding ability
 5. JavaScript权威指南：https://js.okten.cn/posts/
 
 6. 图解HTTP: https://awesome-programming-books.github.io/http/%E5%9B%BE%E8%A7%A3HTTP.pdf
+
+7. LLM入门：https://www.youtube.com/@AndrejKarpathy
