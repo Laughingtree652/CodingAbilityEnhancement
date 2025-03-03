@@ -14,3 +14,5 @@ Enhance coding ability
 6. 图解HTTP: https://awesome-programming-books.github.io/http/%E5%9B%BE%E8%A7%A3HTTP.pdf
 
 7. LLM入门：https://www.youtube.com/@AndrejKarpathy
+
+8. LLM learning roadmap: https://medium.com/bitgrit-data-science-publication/a-roadmap-to-learn-ai-in-2024-cc30c6aa6e16#77a2
